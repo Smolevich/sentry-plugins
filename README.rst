@@ -63,10 +63,9 @@ GitLab
 ------
 
 Go to your project's configuration page (Projects -> [Project] -> Issue Tracking) and select
-GitLab. Enter the required credentials and click save changes.
-
+GitLab. Enter the required credentials and click save changes. In input field `Access Token`
+type `personal access token<https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html>`_
 It's recommended to create a specific user for Sentry with only `Reporter` privileges on your projects.
-
 
 HipChat
 -------
